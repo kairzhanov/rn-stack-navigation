@@ -1,3 +1,5 @@
+// Damir Kairzhanov 20MD0173
+
 import { StatusBar } from 'expo-status-bar';
 import React, { useState } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
